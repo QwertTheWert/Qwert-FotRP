@@ -27,22 +27,8 @@
             "path": "./packs/fotrp-maps.db",
             "entity": "Scene",
             "type": "Scene"
-        },
-        {
-            "name": "macros-for-you",
-            "label": "Macros for You",
-            "path": "./packs/macros-for-you.db",
-            "entity": "Macro",
-            "type": "Macro"
-        },
-        {
-            "name": "summonable-creatures",
-            "label": "Summonable Creatures",
-            "path": "./packs/summonable-creatures.db",
-            "entity": "Actor",
-            "type": "Actor"
         }
     ],
-    "manifest": "https://github.com/QwertTheWert/Qwert-FotRP-Module/blob/main/module.json",
-    "download": "https://github.com/QwertTheWert/qwert-forp/archive/refs/heads/main.zip"
+    "manifest": "https://raw.githubusercontent.com/QwertTheWert/qwert-fotrp/main/module.json",
+    "download": "https://github.com/QwertTheWert/qwert-fotrp/archive/refs/heads/main.zip"
   }
