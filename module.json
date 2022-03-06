@@ -1,0 +1,48 @@
+{
+    "name": "Qwert-FotRP-Module",
+    "title": "Qwert's Fist of the Ruby Phoenix",
+    "description": "FotRP Content Module",
+    "version": "1.0.0",
+    "author": "Me",
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "9",
+    "packs": [
+        {
+            "name": "fotrp-1",
+            "label": "FotRP 1",
+            "path": "./packs/fotrp-1.db",
+            "entity": "JournalEntry",
+            "type": "JournalEntry"
+        },
+        {
+            "name": "fotrp-bestiary",
+            "label": "FotRP Bestiary",
+            "path": "./packs/fotrp-bestiary.db",
+            "entity": "Actor",
+            "type": "Actor"
+        },
+        {
+            "name": "fotrp-maps",
+            "label": "FotRP Maps",
+            "path": "./packs/fotrp-maps.db",
+            "entity": "Scene",
+            "type": "Scene"
+        },
+        {
+            "name": "macros-for-you",
+            "label": "Macros for You",
+            "path": "./packs/macros-for-you.db",
+            "entity": "Macro",
+            "type": "Macro"
+        },
+        {
+            "name": "summonable-creatures",
+            "label": "Summonable Creatures",
+            "path": "./packs/summonable-creatures.db",
+            "entity": "Actor",
+            "type": "Actor"
+        }
+    ],
+    "manifest": "",
+    "download": ""
+  }
