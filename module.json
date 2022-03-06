@@ -2,7 +2,7 @@
     "name": "qwert-fotrp",
     "title": "Qwert's Fist of the Ruby Phoenix",
     "description": "FotRP Content Module",
-    "version": "1.1.1",
+    "version": "1.2.0",
     "author": "Qwert",
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "9",
