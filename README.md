@@ -4,6 +4,7 @@ Qwert's FotRP Module
 ## 1.2.5
 - Fixed for Newest Version of PF2e system
 - Lightkeeper 14 is fixed.
+- Added Qrourrack
 
 ## 1.2.4
 - Updated Tino's Toughest with custom fullbody art
