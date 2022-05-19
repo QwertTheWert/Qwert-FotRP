@@ -1,6 +1,9 @@
 # Qwert-FotRP
 Qwert's FotRP Module
 
+## 1.3.1
+- The palace i forgor :skull: to add has been added
+
 ## 1.3.0 
 - Some of Book 2 content added
 
