@@ -1,0 +1,277 @@
+ {
+	"fists-of-the-ruby-phoenix-bestiary": {
+		"qpbFSs0Z68z58T4m": {
+			"actor": "modules/qwert-fotrp/assets/portraits/tino-tung.webp",
+			"token": {
+				"img": "modules/qwert-fotrp/assets/tokens/tino-tung.webp",
+				"scale": 1.5
+			}
+		},
+		"7pCof1aDBZ1XlsXO": {
+			"actor": "modules/qwert-fotrp/assets/portraits/tino-tung.webp",
+			"token": {
+				"img": "modules/qwert-fotrp/assets/tokens/tino-tung.webp",
+				"scale": 1.5
+			}
+		},
+		"u3vdt2J02rw8RyRq": {
+			"actor": "modules/qwert-fotrp/assets/portraits/yabin-the-just.webp",
+			"token": {
+				"img": "modules/qwert-fotrp/assets/tokens/yabin-the-just.webp",
+				"scale": 1.5
+			}
+		},
+		"7qyR096MhufccSiM": {
+			"actor": "modules/qwert-fotrp/assets/portraits/yabin-the-just.webp",
+			"token": {
+				"img": "modules/qwert-fotrp/assets/tokens/yabin-the-just.webp",
+				"scale": 1.5
+			}
+		},
+		"Q6gjfL2rha7tRS0B": {
+			"actor": "modules/qwert-fotrp/assets/portraits/ji-yook.webp",
+			"token": "modules/qwert-fotrp/assets/tokens/ji-yook.webp"
+		},
+		"ghAlcSfpO03JLvwG": {
+			"actor": "modules/qwert-fotrp/assets/portraits/ji-yook.webp",
+			"token": "modules/qwert-fotrp/assets/tokens/ji-yook.webp"
+		},
+		"J7s3MTb3eZP6u3LT": {
+			"actor": "modules/qwert-fotrp/assets/portraits/takatorra.webp",
+			"token": "modules/qwert-fotrp/assets/tokens/takatorra.webp"
+		},
+		"1y2FBsV4g80KNac1": {
+			"actor": "modules/qwert-fotrp/assets/portraits/takatorra.webp",
+			"token": "modules/qwert-fotrp/assets/tokens/takatorra.webp"
+		},
+		"IGEht7ysUSZndtgp": {
+			"actor": "modules/qwert-fotrp/assets/portraits/old-man-statue.webp",
+			"token": {
+				"img": "modules/qwert-fotrp/assets/tokens/old-man-statue.webp",
+				"scale": 1.5
+			}
+		},
+		"Lsa0Q8aU8aPWjFYv": {
+			"actor": "modules/qwert-fotrp/assets/portraits/kannitri.webp",
+			"token": {
+				"img": "modules/qwert-fotrp/assets/tokens/kannitri.webp",
+				"scale": 1.5
+			}
+		},
+		"AxVNn9nyobosLEAq": {
+			"actor": "modules/qwert-fotrp/assets/portraits/agile-warrior.webp",
+			"token": {
+				"img": "modules/qwert-fotrp/assets/tokens/agile-warrior.webp",
+				"scale": 1.5
+			}
+		},
+		"YHSV9DfaqoaSggLi": {
+			"actor": "modules/qwert-fotrp/assets/portraits/archery-specialist.webp",
+			"token": {
+				"img": "modules/qwert-fotrp/assets/tokens/archery-specialist.webp",
+				"scale": 3
+			}
+		},
+		"o8UMCrKWf89xNvSE": {
+			"actor": "modules/qwert-fotrp/assets/portraits/ki-adept.webp",
+			"token": {
+				"img": "modules/qwert-fotrp/assets/tokens/ki-adept.webp",
+				"scale": 1.5
+			}
+		},
+		"AYQEkPFyTuGlxNg3": {
+			"actor": "modules/qwert-fotrp/assets/portraits/mage-of-many-styles.webp",
+			"token": {
+				"img": "modules/qwert-fotrp/assets/tokens/mage-of-many-styles.webp",
+				"scale": 1.5
+			}
+		},
+		"gSlkZ86P3QrbM874": {
+			"actor": "modules/qwert-fotrp/assets/portraits/weapon-master.webp",
+			"token": {
+				"img": "modules/qwert-fotrp/assets/tokens/weapon-master.webp",
+				"scale": 1.5
+			}
+		},
+		"dTcsY3v9lg4BRrsj": {
+			"actor": "modules/qwert-fotrp/assets/portraits/anugobu-apprentice.webp",
+			"token": "modules/qwert-fotrp/assets/tokens/anugobu-apprentice.webp"
+		},
+		"yNqeqEULKA536K4r": {
+			"actor": "modules/qwert-fotrp/assets/portraits/anugobu-wondercrafter.webp",
+			"token": {
+				"img": "modules/qwert-fotrp/assets/tokens/anugobu-wondercrafter.webp",
+				"scale": 1.5
+			}
+		},
+		"TqKFvTmJnhdclCgt": {
+			"actor": "modules/qwert-fotrp/assets/portraits/ghost-monk.webp",
+			"token": "modules/qwert-fotrp/assets/tokens/ghost-monk.webp"
+		},
+		"WqkV7xd2KOmNQd67": {
+			"actor": "modules/qwert-fotrp/assets/tokens/ghost-monk.webp",
+			"token": "modules/qwert-fotrp/assets/tokens/ghost-monk.webp"
+		},
+		"DW4UFHXzExWwvEuH": {
+			"actor": "modules/qwert-kingmaker/assets/portraits/bestial/avian/roc.webp",
+			"token": {
+				"img": "modules/qwert-kingmaker/assets/tokens/bestial/avian/roc.webp",
+				"scale": 1.5
+			}
+		},
+		"YVP3pM7jxY9Gyouy": {
+			"actor": "modules/qwert-fotrp/assets/portraits/caustic-monitor.webp",
+			"token": {
+				"img": "modules/qwert-fotrp/assets/tokens/caustic-monitor.webp",
+				"scale": 1.5
+			}
+		},
+		"rAsJXFWr1IJatEUm": {
+			"actor": "modules/qwert-kingmaker/assets/portraits/bestial/reptilian/snapping-turtle-giant.webp",
+			"token": "modules/qwert-kingmaker/assets/tokens/bestial/reptilian/snapping-turtle-giant.webp"
+		},
+		"Zp6lrCF3JwpdfKyK": {
+			"actor": "modules/qwert-kingmaker/assets/portraits/bestial/reptilian/tyrannosaurus.webp",
+			"token": "modules/qwert-kingmaker/assets/tokens/bestial/reptilian/tyrannosaurus.webp"
+		},
+		"T5KMiSE8W1R8ChbV": {
+			"actor": "modules/qwert-kingmaker/assets/portraits/bestial/reptilian/spinosaurus.webp",
+			"token": {
+				"img": "modules/qwert-kingmaker/assets/tokens/bestial/reptilian/spinosaurus.webp",
+				"scale": 1.5
+			}
+		},
+		"tBQgipDUVhamBNrZ": {
+			"actor": "modules/qwert-fotrp/assets/portraits/dromornis.webp",
+			"token": {
+				"img": "modules/qwert-fotrp/assets/tokens/dromornis.webp",
+				"scale": 1.5
+			}
+		},
+		"ew2WOdIU5njPMzok": {
+			"actor": "modules/qwert-fotrp/assets/portraits/watchtower-shadow.webp",
+			"token": {
+				"img": "modules/qwert-fotrp/assets/tokens/watchtower-shadow.webp",
+				"scale": 3
+			}
+		},
+		"mwovQpf278O1vdCR": {
+			"actor": "modules/qwert-kingmaker/assets/portraits/undead/ghostly/poltergeist.webp",
+			"token": {
+				"img": "modules/qwert-kingmaker/assets/tokens/undead/ghostly/poltergeist.webp",
+				"scale": 1.5
+			}
+		},
+		"ka41qAFCgGFBXUPJ": {
+			"actor": "modules/qwert-kingmaker/assets/portraits/undead/ghostly/wraith.webp",
+			"token": "modules/qwert-kingmaker/assets/tokens/undead/ghostly/wraith.webp"
+		},
+		"zNOSSDaaCozimqaS": {
+			"actor": "modules/qwert-fotrp/assets/portraits/jaiban.webp",
+			"token": {
+				"img": "modules/qwert-fotrp/assets/tokens/jaiban.webp",
+				"scale": 1.5
+			}
+		},
+		"L2OWZ5Afvnmaif83": {
+			"actor": "modules/qwert-fotrp/assets/portraits/tamikan.webp",
+			"token": {
+				"img": "modules/qwert-fotrp/assets/tokens/tamikan.webp",
+				"scale": 2
+			}
+		},
+		"Twt8z6nTPgYQ0mTv": {
+			"actor": "modules/qwert-fotrp/assets/portraits/berberoka.webp",
+			"token": {
+				"img": "modules/qwert-fotrp/assets/tokens/berberoka.webp",
+				"scale": 2
+			}
+		},
+		"v85RucvwE8lGq7oY": {
+			"actor": "modules/qwert-fotrp/assets/portraits/manananggal.webp",
+			"token": {
+				"img": "modules/qwert-fotrp/assets/tokens/manananggal.webp",
+				"scale": 2
+			}
+		},
+		"fOdNBYgjTveLzpbd": {
+			"actor": "modules/qwert-fotrp/assets/portraits/nightmare.webp",
+			"token": {
+				"img": "modules/qwert-fotrp/assets/tokens/nightmare.webp",
+				"scale": 2
+			}
+		},
+		"tu64qeuTiIGHtvgR": {
+			"actor": "modules/qwert-fotrp/assets/portraits/golarions-finest-brarktork.webp",
+			"token": "modules/qwert-fotrp/assets/tokens/golarions-finest-brarktork.webp"
+		},
+		"CKS4OsoyI2QI8RUn": {
+			"actor": "modules/qwert-fotrp/assets/portraits/golarions-finest-han.webp",
+			"token": "modules/qwert-fotrp/assets/tokens/golarions-finest-han.webp"
+		},
+		"N9Qp7x6n6ighaXOY": {
+			"actor": "modules/qwert-fotrp/assets/portraits/golarions-finest-jun.webp",
+			"token": "modules/qwert-fotrp/assets/tokens/golarions-finest-jun.webp"
+		},
+		"snrGRRYXD8mUG4Y1": {
+			"actor": "modules/qwert-fotrp/assets/portraits/golarions-finest-krankkiss.webp",
+			"token": "modules/qwert-fotrp/assets/tokens/golarions-finest-krankkiss.webp"
+		},
+		"2ryxyUYlf8lY6o1D": {
+			"actor": "modules/qwert-fotrp/assets/portraits/golarions-finest-mingyu.webp",
+			"token": "modules/qwert-fotrp/assets/tokens/golarions-finest-mingyu.webp"
+		},
+		"JFa9WD0nXOTgFGha": {
+			"actor": "modules/qwert-fotrp/assets/portraits/golarions-finest-numoriz.webp",
+			"token": "modules/qwert-fotrp/assets/tokens/golarions-finest-numoriz.webp"
+		},
+		"wFswIWjySnPqVNVT": {
+			"actor": "modules/qwert-fotrp/assets/portraits/golarions-finest-paunnima.webp",
+			"token": "modules/qwert-fotrp/assets/tokens/golarions-finest-paunnima.webp"
+		},
+		"pi3njPvz8AsOrVGZ": {
+			"actor": "modules/qwert-fotrp/assets/portraits/golarions-finest-rajna.webp",
+			"token": "modules/qwert-fotrp/assets/tokens/golarions-finest-rajna.webp"
+		},
+		"FWfKJ7e8UgbBXTkU": {
+			"actor": "modules/qwert-fotrp/assets/portraits/under-the-pale-sun-devish.webp",
+			"token": {
+				"img": "modules/qwert-fotrp/assets/tokens/under-the-pale-sun-devish.webp",
+				"scale": 1.5
+			}
+		},
+		"haUIlixea4iwy0GZ": {
+			"actor": "modules/qwert-fotrp/assets/portraits/ahmoza-twins.webp",
+			"token": {
+				"img": "modules/qwert-fotrp/assets/tokens/ahmoza-twins.webp",
+				"scale": 1.5
+			}
+		},
+		"nejHZ9ccKcDXZWQM": {
+			"actor": "modules/qwert-fotrp/assets/portraits/gomwai.webp",
+			"token": "modules/qwert-fotrp/assets/tokens/gomwai.webp"
+		},
+		"TEHxsglxWi1i3jSN": {
+			"actor": "modules/qwert-kingmaker/assets/portraits/bestial/avian/cauthooj.webp",
+			"token": {
+				"img": "modules/qwert-kingmaker/assets/tokens/bestial/avian/cauthooj.webp",
+				"scale": 1.5
+			}
+		},
+		"hkGMvgL9IOZcAKyc": {
+			"actor": "modules/qwert-fotrp/assets/portraits/hanas-hundred.webp",
+			"token": {
+				"img": "modules/qwert-fotrp/assets/tokens/hanas-hundred.webp",
+				"scale": 1.5
+			}
+		},
+		"PsipHKpczW9FT2Jk": {
+			"actor": "modules/qwert-kingmaker/assets/portraits/constructed/magical/terra-cotta-soldier.webp",
+			"token": "modules/qwert-kingmaker/assets/tokens/constructed/magical/terra-cotta-soldier.webp"
+		},
+		"vjE1lUpklp4slNbd": {
+			"actor": "modules/qwert-kingmaker/assets/portraits/troop/terra-cotta-garrison.webp",
+			"token": "modules/qwert-kingmaker/assets/tokens/troop/terra-cotta-garrison.webp"
+		}
+	}
+}
